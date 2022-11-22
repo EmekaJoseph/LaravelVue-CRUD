@@ -1,7 +1,7 @@
 
 # mooreTask1
 
-How to insatall:
+How to install:
 1. after forking from github,
 2. open shell command on project directory
 3. then type php artisan serve
